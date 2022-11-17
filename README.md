@@ -12,4 +12,3 @@ Libraries used for this program are:
 
 - Sklearn
     - Used to use the K-Means Clustering algorithm.
-
